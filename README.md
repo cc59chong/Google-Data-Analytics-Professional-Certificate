@@ -12,9 +12,9 @@
 ## Course 6
 学习如何在完成数据分析过程时可视化和如何通过故事来呈现的数据发现。了解如何使用Tableau创建有效的可视化（create dashboard and dashboard filters）。探索有效演讲的原则和实践。了解如何将最佳实践应用于与观众的问答。
 ## Course 7
-了解如何使用RStudio， R独有的软件应用程序和工具，例如R包。您将发现R如何让您以新的更强大的方式清理、组织、分析、可视化和报告数据。
+了解如何使用RStudio， R独有的软件应用程序和工具，例如R包。您将发现R如何让您以新的更强大的方式清理、组织、分析、可视化和报告数据。<br>
 Keywords: RStudio, R Markdown, tibbles, tidyverse, readr, tidyr, ggplot2, %>%, 
 ## Course 8
-有机会完成一个可选的case study，常见的面试问题和回答，以及在网上建立个人作品集的有用材料等等。
-Case Study 1: How does a bike-share navigate speedy success?
+有机会完成一个可选的case study，常见的面试问题和回答，以及在网上建立个人作品集的有用材料等等。<br>
+Case Study 1: How does a bike-share navigate speedy success? <br>
 Case Study 2: How can a wellness company play it smart?
